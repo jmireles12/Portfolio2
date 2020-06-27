@@ -83,14 +83,14 @@ label {
 }
 
 /*make input boxes more appeling*/
-input[type=text], select, textarea {
-  width: 100%;
-  padding: 12px;
+input[type=text], textarea {
+  width: 80%;
+  padding: 10px;
   border: 1px solid #ccc;
   border-radius: 4px;
   box-sizing: border-box;
-  resize: vertical;
 }
+
 
 /*style submit button*/
 form button {
