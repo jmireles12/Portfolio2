@@ -51,10 +51,26 @@ main {
   padding: 20px 0;
 }
 
+main section ul {
+  line-height: 1.5;
+}
+
+main section ul li {
+  list-style-position: inside;
+}
+
 /*make text be more center*/
 p {
   margin: 10px;
   text-align: center;
+}
+
+main p a {
+  color: white;
+  text-decoration: none;
+}
+main p a:hover {
+  color: blue;
 }
 
 .wrapper {
