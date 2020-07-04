@@ -73,6 +73,10 @@ main p a:hover {
   color: blue;
 }
 
+.link {
+  color: white;
+}
+
 .wrapper {
   width: 100%;
 }
